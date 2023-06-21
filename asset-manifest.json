@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/upwork-task/static/css/main.bf817b6a.css",
+    "main.js": "/upwork-task/static/js/main.136c14f9.js",
+    "static/media/Cohorts 1.png": "/upwork-task/static/media/Cohorts 1.d918cd0c92e52459efc3.png",
+    "static/media/slick.svg": "/upwork-task/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/upwork-task/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/upwork-task/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/upwork-task/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/upwork-task/index.html",
+    "static/media/bluela 2.svg": "/upwork-task/static/media/bluela 2.43842fdc7cc757e84db6.svg",
+    "main.bf817b6a.css.map": "/upwork-task/static/css/main.bf817b6a.css.map",
+    "main.136c14f9.js.map": "/upwork-task/static/js/main.136c14f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf817b6a.css",
+    "static/js/main.136c14f9.js"
+  ]
+}
