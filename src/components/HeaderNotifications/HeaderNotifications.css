@@ -1,0 +1,40 @@
+.header-notification {
+  background-color: #eaecf5;
+  border-radius: 10px;
+  width: 250px;
+  height: 250px;
+}
+.header-notification header {
+  display: flex;
+  justify-content: space-between;
+}
+.header-notification header svg {
+  width: 21px;
+  height: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.header-notification h4 {
+  color: black;
+  font-size: 14px;
+  max-width: 155px;
+  font-weight: 600;
+  line-height: 20px;
+}
+.header-notification main input::placeholder {
+  color: black;
+  /* padding: 10px; */
+  border: none;
+  font-size: 14px;
+}
+.header-notification main input {
+  padding: 15px 5px;
+  border-radius: 10px;
+}
+.header-notification p {
+  color: black;
+}
+select {
+  color: black;
+  font-weight: 600;
+  background-color: rgba(242, 242, 243, 1);
+}

@@ -1,0 +1,27 @@
+.header .header-items-container {
+  display: flex;
+  /* flex-direction: ; */
+}
+.header h4 {
+  font-size: 32px;
+  color: white;
+  max-width: 300px;
+}
+
+.header p {
+  color: rgba(244, 244, 248, 0.8);
+  max-width: 300px;
+  line-height: 20px;
+}
+.header-desc img {
+  background-color: rgba(71, 65, 108, 0.5);
+  border-radius: 10px;
+}
+.notifications-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.notifications-container div {
+  margin: 10px;
+}
